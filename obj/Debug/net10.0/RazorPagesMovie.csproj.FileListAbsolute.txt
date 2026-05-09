@@ -364,3 +364,4 @@ c:\Users\kenny\OneDrive\Documents\GitHub\RazorsMovie\RazorPagesMovie\bin\Debug\n
 c:\Users\kenny\OneDrive\Documents\GitHub\RazorsMovie\RazorPagesMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 c:\Users\kenny\OneDrive\Documents\GitHub\RazorsMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.csproj.AssemblyReference.cache
 c:\Users\kenny\OneDrive\Documents\GitHub\RazorsMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPag.6F531686.Up2Date
+C:\Users\kenny\OneDrive\Documents\GitHub\RazorsMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.sourcelink.json
